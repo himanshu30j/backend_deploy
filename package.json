@@ -1,0 +1,11 @@
+{
+  "name": "videoyou",
+  "version": "1.0.0",
+  "description": "this is a application just like a youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "himanshu mittal",
+  "license": "ISC"
+}
